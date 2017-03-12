@@ -1,1 +1,1 @@
-# text-mining_hw_word-count
+# text-mining_hw2_word-count
